@@ -3,7 +3,7 @@
 ## 手册
 
 * [Git](https://github.com/francyfrees/git-docs)
-
+* [正则](https://deerchao.cn/tutorials/regex/regex.htm)
 
 ## 专栏
 
